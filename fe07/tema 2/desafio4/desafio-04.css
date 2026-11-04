@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+.cartao {
+    width: 250px;
+    height: 80px;
+    padding: 15px;
+    border: 1px solid black;
+    margin: 20px;
+    background-color: white;
+}
